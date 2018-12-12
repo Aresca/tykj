@@ -11,7 +11,7 @@
 	<mvc:annotation-driven/>
 	
 	<!-- 扫描包 -->
-	<context:component-scan base-package="cn.manage.controller"/>
+	<context:component-scan base-package="cn.data.management.controller"/>
 	
 	<!-- 视图解析器 -->
 	<!-- 

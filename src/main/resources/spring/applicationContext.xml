@@ -25,7 +25,7 @@
 	
 	
 	<!-- 扫描包 -->
-	<context:component-scan base-package="cn.manage"/>
+	<context:component-scan base-package="cn.data.management"/>
 
 	 <!-- 定义数据源 -->
 	<bean id="dataSource" class="com.jolbox.bonecp.BoneCPDataSource"
